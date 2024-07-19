@@ -350,6 +350,11 @@ class settings extends StatelessWidget {
     return Container();
   }
 }
+//hoy terminamos guia 6 /11/07/2024
+
+//GA6-220501096-AA4-EV02 establecer los componentes frontend de la aplicación web  
+//GA6-220501096-AA4-EV03 - Diseño frontend que cumpla con los requerimientos del proyecto  
+ 
 //creamos una version web. primero abrimos terminal aqui en el codigo, luego inserto el codigo que nos dejo en el chat
 //que es...flutter build web --web-renderer html --release con esto el construye sus archivos y luego 
 // abrimos disco local c, proyect_flutterfirts_class,menu2706,build, 
